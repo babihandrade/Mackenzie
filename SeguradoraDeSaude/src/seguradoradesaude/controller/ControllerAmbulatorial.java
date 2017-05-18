@@ -13,7 +13,6 @@ import seguradoradesaude.model.PlanoDeSaude;
  * @author Bárbara
  */
 public class ControllerAmbulatorial {
-
     private Ambulatorial ambulatorio;
 
     public Ambulatorial getAmbulatorio() {
